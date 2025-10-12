@@ -1,0 +1,141 @@
+{
+  "id": "52519390872818634771",
+  "name": "@indra.ai/deva.police",
+  "version": "0.1.1",
+  "license": "VLA:52519390872818634771 LICENSE.md",
+  "VLA": {
+    "uid": "52519390872818634771",
+    "time": 1760312097221,
+    "date": "Sunday, October 12, 2025 - 4:34:57 PM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "MIv9DV755VnJwBWLH7OahMQs1u4KRsFVtJWR5hgdFwQ=",
+    "core": "DeOotMuPqb0vN7pGlyxw8G+o0tjqHyZRJXxPZlIlYVM=",
+    "machine": "+38SMlvHW3JxcjDvJPxLM/ykIkMRgbT78B1Lbs6hzqQ=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "kxjlfVQT2OGi0pgqiUzclg==",
+    "sha256": "sVwNamO370BCZ1p4adpSB50VaWunivG59m4P3bQoFKo=",
+    "sha512": "A/UOwFmPBbBGk/0xHPmEskGnnVzduqNt3as4vbCTbP0gNb7Cm0n2pmpRWFFXROEkHgBvCju+dtDvqHEfwyaqOw=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "Police Deva manages the Vedic License Agreement Framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.police.git"
+  },
+  "keywords": [
+    "Police",
+    "Deva",
+    "Police Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.police/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.12.0"
+  },
+  "data": {
+    "agent": {
+      "id": "38214973102919709980",
+      "key": "police",
+      "prompt": {
+        "emoji": "🚔 ",
+        "text": "#police",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "70038295937238851954",
+        "name": "Police Deva",
+        "hashtag": "#Police",
+        "trigger": "@Police",
+        "title": "The Police Deva",
+        "subtitle": "Showing Police Deva Features",
+        "describe": "Police Deva is a prototype model managing the Indra.ai Law Enforcement Framework that is not yet offocially supported or sanctioned by the Federal Law Enforcement Community. But is a Prototype Model intended to show lawful non-weaponized features the Indra.ai Law Enforcement Framwork could provide the United States Federal Law Enforcement Community in crime detection, prevention, remediation, and in supporting Constitution of the United States of America🇺🇸.",
+        "tweet": "Police Deva is manages the the Deva Core Law Enforcemenet Frameowrk.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,PoliceDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Police Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.fbi",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/police/emoji.png",
+        "avatar": "/devas/police/avatar.png",
+        "image": "/devas/police/image.png",
+        "background": "/devas/police/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ Police Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}
