@@ -3,7 +3,7 @@
 // Legal Signature Required For Lawful Use.
 // Distributed under VLA:52519390872818634771 LICENSE.md
 
-// License Deva is responsible for the Vedic Tradition Laws.
+// Police Deva
 import Deva from '@indra.ai/deva';
 
 import pkg from './package.json' with {type:'json'};
@@ -29,7 +29,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const FBI = new Deva({
+const POLICE = new Deva({
   info,
   agent,
   vars,
@@ -61,4 +61,4 @@ const FBI = new Deva({
     console.log(err);
   },
 });
-export default FBI
+export default POLICE;
