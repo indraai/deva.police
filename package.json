@@ -1,21 +1,18 @@
 {
-  "id": "52519390872818634771",
+  "id": "49217018009233197704",
   "name": "@indra.ai/deva.police",
   "version": "0.3.0",
-  "license": "VLA:52519390872818634771 LICENSE.md",
+  "license": "VLA:49217018009233197704 LICENSE.md",
   "VLA": {
-    "uid": "52519390872818634771",
-    "time": 1760312097221,
-    "date": "Sunday, October 12, 2025 - 4:34:57 PM",
-    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
-    "agent": "MIv9DV755VnJwBWLH7OahMQs1u4KRsFVtJWR5hgdFwQ=",
-    "core": "DeOotMuPqb0vN7pGlyxw8G+o0tjqHyZRJXxPZlIlYVM=",
-    "machine": "+38SMlvHW3JxcjDvJPxLM/ykIkMRgbT78B1Lbs6hzqQ=",
+    "uid": "49217018009233197704",
+    "time": 1761428185599,
+    "date": "Saturday, October 25, 2025 - 2:36:25 PM",
+    "fingerpring": "ISWZKhtnyCZFROrJmAk3FOsoD0biIDXxBKPpyp6FCP8=",
     "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
     "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "kxjlfVQT2OGi0pgqiUzclg==",
-    "sha256": "sVwNamO370BCZ1p4adpSB50VaWunivG59m4P3bQoFKo=",
-    "sha512": "A/UOwFmPBbBGk/0xHPmEskGnnVzduqNt3as4vbCTbP0gNb7Cm0n2pmpRWFFXROEkHgBvCju+dtDvqHEfwyaqOw=="
+    "md5": "Zn0qia64T3bCZMU/GVHkog==",
+    "sha256": "mmsIyQqoaD1enw1Whnyj4p6F2NiuHpWlQJcPJ3OgMw4=",
+    "sha512": "aKEHT0Qk4ndg4UPfpBmWBIn6pRJG+2WXlviAVCAmG19KoclgkgnkIBPjdPiQxM5+08k35GctPKfUXNDyykyJPA=="
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -66,7 +63,7 @@
   },
   "data": {
     "agent": {
-      "id": "38214973102919709980",
+      "id": "41295643206375884300",
       "key": "police",
       "prompt": {
         "emoji": "👮",
@@ -85,7 +82,7 @@
         }
       },
       "profile": {
-        "id": "70038295937238851954",
+        "id": "48751513848983037722",
         "name": "Police Deva",
         "hashtag": "#Police",
         "trigger": "@Police",

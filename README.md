@@ -3,4 +3,4 @@ The Police Deva a prototype Deva that is not official or supported by the Offici
 
 Copyright ©2025 Quinn A Michaels; All rights reserved.  
 Legal Signature Required For Lawful Use.  
-Distributed under VLA:52519390872818634771 LICENSE.md
+Distributed under VLA:49217018009233197704 LICENSE.md
