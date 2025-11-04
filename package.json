@@ -59,7 +59,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.19.0"
+    "@indra.ai/deva": "^1.20.2"
   },
   "data": {
     "agent": {
@@ -106,8 +106,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "status": "unofficial",
-        "warning": "Those who are appointed to guard provinces and who have been ordered to help, he shall speedily punish like thieves, if they remain inactive in attacks by robbers. Moreover if a man, who subsists by the fulfilment of the law departs from the established rule of the law shall punish him by a fine, because he violated his duty.",
+        "warning": "Those who are appointed to guard provinces and who have been ordered to help, he shall speedily punish like thieves, if they remain inactive in attacks by robbers. If a person, who subsists by the fulfilment of the law departs from the established rule of the law shall punish him by a fine and inprisonment, because he/she violated his/her duty.",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
     },
