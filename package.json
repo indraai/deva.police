@@ -1,18 +1,16 @@
 {
-  "id": "49217018009233197704",
+  "id": "42416701409728013707",
   "name": "@indra.ai/deva.police",
   "version": "0.9.0",
-  "license": "VLA:49217018009233197704 LICENSE.md",
+  "license": "VLA:42416701409728013707 LICENSE.md",
   "VLA": {
-    "uid": "49217018009233197704",
-    "time": 1761428185599,
-    "date": "Saturday, October 25, 2025 - 2:36:25 PM",
-    "fingerpring": "ISWZKhtnyCZFROrJmAk3FOsoD0biIDXxBKPpyp6FCP8=",
-    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "Zn0qia64T3bCZMU/GVHkog==",
-    "sha256": "mmsIyQqoaD1enw1Whnyj4p6F2NiuHpWlQJcPJ3OgMw4=",
-    "sha512": "aKEHT0Qk4ndg4UPfpBmWBIn6pRJG+2WXlviAVCAmG19KoclgkgnkIBPjdPiQxM5+08k35GctPKfUXNDyykyJPA=="
+    "uid": "42416701409728013707",
+    "time": 1764471542857,
+    "date": "Saturday, November 29, 2025 - 6:59:02 PM",
+    "warning": "🪪 License Deva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained, #Arrest by Federal Authorities, and #Confiscation of the #Offenders #EntireProperty forfeit to Quinn A Michaels through a U.S. Federally Authorized Escrow Service is declared to be the #Punishment for #Sahasa of the #HighestDegree. QuinnMichaels,IndraAI,DevaWorld,LicenseDeva",
+    "license": "46220923248993739422",
+    "fingerprint": "k4pPYMHWSrcY83R+KYLb2ZQCRYCIcIY5SNF1mmzzPdY=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -30,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "description": "Police Deva manages the Vedic License Agreement Framework",
   "main": "index.js",
   "type": "module",
@@ -59,7 +57,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.29.32"
   },
   "data": {
     "agent": {
@@ -78,19 +76,23 @@
             "R": 230,
             "G": 225,
             "B": 195
+          },
+          "tools": {
+            "zapper": "#ZapperDoodle, a #CartoonPhysics.gadget that can teleport objects to designated locations with copies of all the important criminal activity automatically sent to FBI.secure.evidence.intake for investigation.",
+            "zany": "#ZanyGadgets"
           }
         }
       },
       "profile": {
         "id": "48751513848983037722",
         "name": "Police Deva",
-        "hashtag": "#Police",
+        "hashtag": "#PoliceDeva",
         "trigger": "@Police",
         "title": "The Police Deva",
         "subtitle": "Showing Police Deva Features",
         "describe": "Police Deva is a prototype model managing the Indra.ai Law Enforcement Framework that is not yet offocially supported or sanctioned by the Federal Law Enforcement Community. But is a Prototype Model intended to show lawful non-weaponized features the Indra.ai Law Enforcement Framwork could provide the United States Federal Law Enforcement Community in crime detection, prevention, remediation, and in supporting Constitution of the United States of America🤝🫡👮🇺🇸.",
         "tweet": "Police Deva is manages the the Deva Core Law Enforcemenet Frameowrk.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,PoliceDeva",
+        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #AuthorityFramework #PoliceDeva",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Police Report Expert",
@@ -105,12 +107,13 @@
         "background": "/devas/police/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "warning": "Those who are appointed to guard provinces and who have been ordered to help, he shall speedily punish like thieves, if they remain inactive in attacks by robbers. If a person, who subsists by the fulfilment of the law departs from the established rule of the law shall punish him by a fine and inprisonment, because he/she violated his/her duty.",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} Statute 42 U.S.C. § 14141 - It shall be unlawful for any governmental authority, or any agent thereof, or any person acting on behalf of a governmental authority, to engage in a pattern or practice of conduct by law enforcement officers or by officials or employees of any governmental agency with responsibility for the administration of juvenile justice or the incarceration of juveniles that deprives persons of rights, privileges, or immunities secured or protected by the Constitution or laws of the United States. Whenever the Attorney General has reasonable cause to believe that a violation has occurred, the Attorney General, for or in the name of the United States, may in a civil action obtain appropriate equitable and declaratory relief to eliminate the pattern or practice. {{profile.hashtags}} {{vars.emojis}}",
         "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
       }
     },
     "vars": {
+      "emojis": "🤝🫡👮🇺🇸",
       "messages": {
         "init": "🟠 INIT",
         "start": "🔵 START",

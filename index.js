@@ -1,7 +1,8 @@
 "use strict";
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:27989927127238936204 LICENSE.md
+// Distributed under VLA:42416701409728013707 LICENSE.md
+// Saturday, November 29, 2025 - 6:59:02 PM
 
 // Recursion Deva
 import Deva from '@indra.ai/deva';
@@ -29,7 +30,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const RECURSION = new Deva({
+const PoliceDeva = new Deva({
   info,
   agent,
   vars,
@@ -61,4 +62,4 @@ const RECURSION = new Deva({
     console.log(err);
   },
 });
-export default RECURSION;
+export default PoliceDeva;
