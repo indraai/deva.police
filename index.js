@@ -3,8 +3,8 @@
 // Legal Signature Required For Lawful Use.
 // Distributed under VLA:42416701409728013707 LICENSE.md
 // Saturday, November 29, 2025 - 6:59:02 PM
+// Police Deva
 
-// Recursion Deva
 import Deva from '@indra.ai/deva';
 
 import pkg from './package.json' with {type:'json'};
