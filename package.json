@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.lvmpd@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -57,7 +58,8 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.30.2"
+    "@indra.ai/deva": "^1.30.2",
+    "@indra.ai/deva.lvmpd": "^0.6.0"
   },
   "data": {
     "agent": {

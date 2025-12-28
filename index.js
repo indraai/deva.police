@@ -15,6 +15,8 @@ import {dirname} from 'node:path';
 import {fileURLToPath} from 'node:url';    
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+import lvmpd from '@indra.ai/deva.lvmpd';
+
 const info = {
   id: pkg.id,
   license: pkg.license,
