@@ -44,7 +44,7 @@ const PoliceDeva = new Deva({
   listeners: {},
   modules: {},
   devas: {
-    lvmpd,
+    // lvmpd,
   },
   func: {},
   methods: {},
