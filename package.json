@@ -110,8 +110,9 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} Those who give FOOD or SHELTER to THIEVES seeking REFUGE, or who ALLOW them to ESCAPE though able to ARREST them PARTAKE of the CRIME THEMSELVES. He shall then ARREST the THIEVES after having CONVICTED and ENTICED them to make their APPEARANCE, and shall INFLICT CAPITAL PUNISHMENT on them according to the LAW, after having PROCLAIMED their DEEDS EVERYWHERE. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}} \nsalute: {{vars.salute}}",
-        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM"
+        "warning": "{{prompt.emoji}} {{profile.name}} declares those who give FOOD or SHELTER to THIEVES seeking REFUGE, or who ALLOW them to ESCAPE though able to ARREST them PARTAKE of the CRIME THEMSELVES. He shall then ARREST the THIEVES after having CONVICTED and ENTICED them to make their APPEARANCE, and shall INFLICT CAPITAL PUNISHMENT on them according to the LAW, after having PROCLAIMED their DEEDS EVERYWHERE. \nsalute: {{vars.salute}} \nowner: {{profile.owner}} \ntags: {{profile.hashtags}}",
+        "created": "Monday, Septemper 8, 2025 - 1:25:01 PM",
+        "updated": "Tuesday, February 24, 2026 - 3:58:54 AM"
       }
     },
     "vars": {
